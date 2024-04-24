@@ -1,0 +1,4 @@
+﻿  0424)Prac1.cpp
+C:\Users\dkdla\source\repos\0424)C++\0424)C++\0424)Prac1.cpp(37,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dkdla\source\repos\0424)C++\0424)C++\0424)Prac1.cpp(37,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0424)C++.vcxproj -> C:\Users\dkdla\source\repos\0424)C++\x64\Debug\0424)C++.exe
